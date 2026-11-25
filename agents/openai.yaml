@@ -1,0 +1,4 @@
+interface:
+  display_name: "VANTAGE"
+  short_description: "Software liefern, Scope und Aufwand begrenzen"
+  default_prompt: "Nutze $vantage für dieses Projekt: Prüfe den belegten Stand und zeige den nächsten wirksamen Schritt zum vereinbarten Ziel."
